@@ -1,0 +1,22 @@
+{
+  "name": "desenvolve-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soma.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeralbinoi/desenvolve-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeralbinoi/desenvolve-tests/issues"
+  },
+  "homepage": "https://github.com/rogeralbinoi/desenvolve-tests#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
