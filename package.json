@@ -1,7 +1,7 @@
 {
   "name": "desenvolve-tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Solucionando problemas com programacao",
   "main": "soma.js",
   "scripts": {
     "test": "jest"
